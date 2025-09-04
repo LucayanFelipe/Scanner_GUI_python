@@ -36,14 +36,14 @@ Um scanner de portas completo com interface gráfica desenvolvido em Python usan
 
     Instalar Sistema Operacional:
 
-        Inicie a VM
-
         Selecione a imagem ISO do Linux Mint Cinnamon
+
+        Inicie a VM
 
         Siga o processo de instalação padrão
 
 
-2. Instalação das Dependências do Sistema
+3. Instalação das Dependências do Sistema
 
 Abra o terminal (Ctrl+Alt+T) e execute:
 
