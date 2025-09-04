@@ -10,7 +10,7 @@ Um scanner de portas completo com interface gráfica desenvolvido em Python usan
     Acesso root para varredura SYN (opcional mas recomendado)
 
 🚀 Instalação Passo a Passo
-1. Configuração da Máquina Virtual no VirtualBox
+# 1. Configuração da Máquina Virtual no VirtualBox
 
     Criar Nova Máquina Virtual:
 
@@ -43,7 +43,7 @@ Um scanner de portas completo com interface gráfica desenvolvido em Python usan
         Siga o processo de instalação padrão
 
 
-3. Instalação das Dependências do Sistema
+# 3. Instalação das Dependências do Sistema
 
 Abra o terminal (Ctrl+Alt+T) e execute:
 
@@ -58,12 +58,12 @@ pip install scapy
 ou
 sudo apt install -y python3-scapy
 
-4. Obter o Código do Scanner
+# 4. Obter o Código do Scanner
 
 # Clone o repositório ou baixe o arquivo
 git clone <Scanner_GUI_python>
 
-5. Executar o Scanner
+# 5. Executar o Scanner
 
 # Execute com sudo
 sudo python3 scanner.py
