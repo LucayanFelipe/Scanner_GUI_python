@@ -53,10 +53,7 @@ sudo apt update
 # Instalar Python e ferramentas essenciais
 sudo apt install -y python3 python3-pip python3-venv python3-pyqt5
 
-# Instalar dependências para o scapy (opcional mas recomendado)
-sudo apt install -y tcpdump libpcap-dev
-
-# Instalar scapy (para varreduras avançadas)
+# Instalar scapy
 pip install scapy
 ou
 sudo apt install -y python3-scapy
